@@ -23,7 +23,7 @@
       "company_name": "字节跳动",
       "department_name": "Data-抖音-中长端",
       "work_time": ["2020.04", null],
-      "work_desc": "1. 头条/西瓜相关推荐负责人\r\n2. 西瓜视频召回、多样性算法迭代\n3. 冷启动算法迭代 4.抖音中视频项目负责人"
+      "work_desc": "1. 头条/西瓜相关推荐负责人\r\n2. 参与西瓜视频召回、多样性算法迭代\n3. 参与冷启动算法迭代 \n4.抖音中视频项目负责人"
     }
   ],
   "projectList": [
@@ -43,20 +43,20 @@
     },
     {
       "project_name": "冷启动算法",
-      "project_role": "核心开发者",
+      "project_role": "",
       "project_time": "2022.04 - 2023.09",
-      "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
+      "project_desc": "",
       "project_content": "1. 冷启动召回优化，特征引入多模态信息，结构引入多兴趣召回结构 2. 参考谷歌paper实现冷启动beta分布独立粗排 3.精排冷启动双队列机制"
     },
     {
       "project_name": "抖音中视频项目",
-      "project_role": "核心开发者",
+      "project_role": "",
       "project_time": "2023.09 - 至今",
       "project_content": "1. 负责抖音中视频频道的推荐工作，主要工作包括系统debug、独立模型建模、独立心智建模"
     }
   ],
   "workList": [],
   "aboutme": {
-    "aboutme_desc": "🌱 Focus on data visualization and analysis\n😈 能力项：沟通协调能力、执行力\n自驱型前端工程师，三年多大型复杂产品开发经验，负责蚂蚁集团 BI 产品 DeepInsight 的可视化建设，参与了从图表库到 BI 产品力的一体化建设，对商业智能领域的数据可视化建设有较为丰富的经验。\n参与 AntV 团队开源项目 G2、G2Plot 的研发，目前是 G2Plot 的主要负责人。"
+    "aboutme_desc": "🌱 能力项：沟通协调能力、执行力\n资深推荐算法工程师，四年推荐算法经验，参与过召回、精排、冷启动、相关视频等模块的推荐优化工作，参与了抖音中视频频道从0到1的建设工作"
   }
 }
