@@ -43,14 +43,14 @@
     },
     {
       "project_name": "冷启动算法",
-      "project_role": "",
+      "project_role": "推荐负责人",
       "project_time": "2022.04 - 2023.09",
       "project_desc": "",
       "project_content": "1. 冷启动召回优化，特征引入多模态信息，结构引入多兴趣召回结构 2. 参考谷歌paper实现冷启动beta分布独立粗排 3.精排冷启动双队列机制"
     },
     {
       "project_name": "抖音中视频项目",
-      "project_role": "",
+      "project_role": "推荐负责人",
       "project_time": "2023.09 - 至今",
       "project_content": "1. 负责抖音中视频频道的推荐工作，主要工作包括系统debug、独立模型建模、独立心智建模"
     }
