@@ -5,8 +5,7 @@
   },
   "profile": {
     "name": "高轶群",
-    "email": "736****86@qq.com",
-    "mobile": "13161995***",
+    "mobile": "1316199****",
     "github": "https://github.com/gao793583308",
     "workExpYear": "",
     "positionTitle": "推荐算法工程师"
@@ -22,9 +21,9 @@
   "workExpList": [
     {
       "company_name": "字节跳动",
-      "department_name": "西瓜视频视频推荐算法",
+      "department_name": "Data-抖音-中长端",
       "work_time": ["2020.04", null],
-      "work_desc": "1. 头条/西瓜相关推荐负责人\r\n2. 2.负责西瓜召回、多样性算法迭代\n3. 3.冷启动算法负责人"
+      "work_desc": "1. 头条/西瓜相关推荐负责人\r\n2. 西瓜视频召回、多样性算法迭代\n3. 冷启动算法迭代 4.抖音中视频项目负责人"
     }
   ],
   "projectList": [
@@ -33,27 +32,27 @@
       "project_role": "推荐负责人",
       "project_time": "2020.04 - 2022.04",
       "project_desc": "",
-      "project_content": "1. 相关视频召回、粗排、精排全链路推荐算法优化 2. 引入行为相关、多模态相关、序列相关性优化相关推荐  3. 相关序列建模和相关视频debias工作"
+      "project_content": "1. 相关视频召回、精排全链路推荐算法优化,召回阶段引入行为相关、多模态相关、序列相关三种相关性, 精排强化seed_gid和position信号  2.通过对比学习、去bias的方式做debias"
     },
     {
       "project_name": "西瓜召回、多样性算法",
       "project_role": "推荐负责人",
       "project_time": "2020.04 - 至今",
       "project_desc": "",
-      "project_content": "1. 召回切双塔、多场景召回、finish召回优化 2. 召回精排打散、多样性dpp算法提升多样性"
+      "project_content": "1. 召回切双塔结构、多场景召回、多兴趣召回跌打 2. 召回精排tag、聚类打散、精排多样性dpp算法、粗排centroid打散提升推荐多样性"
     },
     {
       "project_name": "冷启动算法",
       "project_role": "核心开发者",
       "project_time": "2022.04 - 2023.09",
       "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
-      "project_content": "1. 冷启动召回优化，特征引入多模态信息，结构引入多兴趣召回结果 2. 参考谷歌paper实现冷启动beta分布独立粗排 3.精排冷启动双队列机制"
+      "project_content": "1. 冷启动召回优化，特征引入多模态信息，结构引入多兴趣召回结构 2. 参考谷歌paper实现冷启动beta分布独立粗排 3.精排冷启动双队列机制"
     },
     {
       "project_name": "抖音中视频项目",
       "project_role": "核心开发者",
       "project_time": "2023.09 - 至今",
-      "project_content": "1. 冷启动召回优化，特征引入多模态信息，结构引入多兴趣召回结果 2. 参考谷歌paper实现冷启动beta分布独立粗排 3.精排冷启动双队列机制"
+      "project_content": "1. 负责抖音中视频频道的推荐工作，主要工作包括系统debug、独立模型建模、独立心智建模"
     }
   ],
   "workList": [],
